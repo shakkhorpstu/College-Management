@@ -1,0 +1,33 @@
+.headerbar .headerbar-left {
+    background: #3c4c49;
+    float: left;
+    text-align: center;
+    height: 50px;
+    position: relative;
+    width: 250px;
+    z-index: 1;
+}
+
+.navbar-custom {
+    background-color: #34404c;
+    border-radius: 0;
+    margin-bottom: 0;
+    padding: 0 10px;
+    margin-left: 250px;
+    min-height: 50px;
+}
+
+.dropdown-menu.dropdown-menu-right.profile-dropdown.show {
+  background: burlywood;
+}
+
+.card.dashboard-card {
+    min-height: 180px;
+}
+
+.admin-page {
+    border: 1px solid #8a8080;
+    padding: 30px;
+    margin-top: 5px;
+    background: #fafdff;
+}
